@@ -1,6 +1,6 @@
-# Face Detection And Crop
+# Face Detection And Auto Crop
 
-A python program that detects and crops faces in the image.
+A python program that detects and auto crops face in the image.
 
 # Installation
 
@@ -11,5 +11,5 @@ pip install -r requirements.txt
 # Usage
 
 ```bash
-python3 crop_face.py <image_path> ...
+python3 auto_crop.py <image_path> ...
 ```
