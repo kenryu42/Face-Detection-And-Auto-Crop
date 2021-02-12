@@ -20,5 +20,5 @@ pip install -r requirements.txt
 # Usage
 
 ```
-python3 auto_crop.py <image_path> ...
+python auto_crop.py <image_path> ...
 ```
