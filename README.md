@@ -1,6 +1,6 @@
 # Face Detection And Auto Crop
 
-A python program that detects and auto crops face in the image.
+A python program that detects and auto crops face in the image. Cropped images will be in a folder named “result”.
 
 # Download
 
@@ -21,4 +21,10 @@ pip install -r requirements.txt
 
 ```
 python auto_crop.py <image_path> ...
+```
+
+## To Quit Virtual Environment
+
+```
+deactivate
 ```
