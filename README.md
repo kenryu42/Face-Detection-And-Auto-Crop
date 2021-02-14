@@ -1,6 +1,6 @@
 # Face Detection And Auto Crop
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/leblancfg/autocrop.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kenxdrgn/Face-Detection-And-Auto-Crop/context:python)  
-A python program that detects and auto crops face in the image. Cropped images will be in a folder named “result”.
+A python program that detects all human faces in an image and crops them automatically.
 
 ## Requirement
 The best practice for your project is to use a [virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/).
