@@ -7,7 +7,7 @@ The best practice for your project is to use a [virtual environment](https://pac
 
 ## Download
 ```
-git clone https://github.com/kenxdrgn/Face-Detection-And-Auto-Crop
+cd && git clone https://github.com/kenxdrgn/Face-Detection-And-Auto-Crop
 ```
 
 ## Installation (with virtualenv)
@@ -28,3 +28,13 @@ pip install -r requirements.txt
 ```
 python auto_crop.py <image_path> ...
 ```
+
+## Example
+```
+python auto_crop.py images/peoples.jpg
+```
+or
+```
+python auto_crop.py image/peoples.jpg data/group.png human.jpeg
+```
+Successfully cropped images will be saved in a folder named "result".
